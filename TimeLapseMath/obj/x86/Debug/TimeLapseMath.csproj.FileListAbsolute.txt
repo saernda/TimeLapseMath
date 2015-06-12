@@ -1,0 +1,4 @@
+C:\Users\Andreas\Documents\GitHub\TimeLapseMath\TimeLapseMath\bin\Debug\TimeLapseMath.exe
+C:\Users\Andreas\Documents\GitHub\TimeLapseMath\TimeLapseMath\bin\Debug\TimeLapseMath.pdb
+C:\Users\Andreas\Documents\GitHub\TimeLapseMath\TimeLapseMath\obj\x86\Debug\TimeLapseMath.exe
+C:\Users\Andreas\Documents\GitHub\TimeLapseMath\TimeLapseMath\obj\x86\Debug\TimeLapseMath.pdb
